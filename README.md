@@ -3,7 +3,7 @@
 
 <img align = "right" src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width = "400" >
 
-<p align="left"> <a href="https://twitter.com/mekhlaupadhyay" target="blank"><img src="https://img.shields.io/twitter/follow/mekhlaupadhyay?logo=twitter&style=for-the-badge" alt="mekhlaupadhyay" /></a> </p>
+<p align="left"> <a href="https://twitter.com/anai_0V" target="blank"><img src="https://img.shields.io/twitter/follow/anai_0V?logo=twitter&style=for-the-badge" alt="anai_0V" /></a> </p>
 
 - 🔭 I’m currently working on **Polishing my pentesting skills**
 
