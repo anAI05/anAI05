@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm ANAi 👋</h1>
-<h3 align="center">Cloud enthusiast</h3>
+<h3 align="center">Cloud Enthusiast</h3>
 
 <img align = "right" src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width = "400" >
 
