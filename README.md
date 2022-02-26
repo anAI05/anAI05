@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Polishing my pentesting skills**
 
-- 🌱 I’m currently wanting to learn **Docker, DevOps, K8s, Hadoop**
+- 🌱 I’m currently wanting to learn **Python, DevOps, Hadoop**
 
 - 👯 I’m looking to collaborate on **Cloud related projects**
 
