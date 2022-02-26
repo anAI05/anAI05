@@ -1,6 +1,9 @@
 <h1 align="center">Hi there, I'm ANAi 👋</h1>
 <h3 align="center">Cloud Enthusiast</h3>
 
+<h2><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello World <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h2>
+<br>
+
 <img align = "right" src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width = "400" >
 
 <p align="left"> <a href="https://twitter.com/anai_0V" target="blank"><img src="https://img.shields.io/twitter/follow/anai_0V?logo=twitter&style=for-the-badge" alt="anai_0V" /></a> </p>
