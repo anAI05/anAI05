@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I'm funny**
 
-![age](https://img.shields.io/badge/age-21-blue)
+![age](https://img.shields.io/badge/age-22-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-INDIA-3c9)
 
