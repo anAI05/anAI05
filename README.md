@@ -6,8 +6,6 @@
 
 <img align = "right" src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width = "400" >
 
-<p align="left"> <a href="https://twitter.com/anai_0v" target="blank"><img src="https://img.shields.io/twitter/follow/anai_0v?logo=twitter&style=for-the-badge" alt="anai_0v" /></a> </p>
-
 - 🔭 I’m currently working on **Polishing my pentesting skills**
 
 - 🌱 I’m currently wanting to learn **Python, DevOps, Hadoop**
