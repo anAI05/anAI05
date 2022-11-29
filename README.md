@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Polishing my pentesting skills**
 
-- 🌱 I’m currently wanting to learn **Python, DevOps**
+- 🌱 I’m currently wanting to learn **Python**
 
 - 👯 I’m looking to collaborate on **Cloud related projects**
 
