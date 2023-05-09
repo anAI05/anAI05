@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ANAi</h1>
-<h3 align="center">Cloud Enthusiast</h3>
+<h3 align="center">ML Enthusiast</h3>
 
 <h2><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello World <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h2>
 <br>
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **omkarjajulwar@gmail.com**
 
-- ⚡ Fun fact **I'm funny**
+- ⚡ Fun fact **I'm batman**
 
 ![age](https://img.shields.io/badge/age-22-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
