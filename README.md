@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ANAi</h1>
+<h1 align="center">Hey there, I'm ANAi</h1>
 <h3 align="center">ML Enthusiast</h3>
 
 
