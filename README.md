@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm ANAi</h1>
 <h3 align="center">ML Enthusiast</h3>
 
+
+<img align="right" alt="Coding" width="400" src="https://yalantis.com/uploads/ckeditor/pictures/2916/dribble_perfect.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=disha-25&label=Profile%20views&color=0e75b6&style=flat" alt="disha-25" /> </p>
+<p>Visitor Count</p> <img src="https://profile-counter.glitch.me/Disha-25/count.svg">
+
 <h2><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello World <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h2>
 <br>
-
-<img align = "right" src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width = "400" >
 
 - 🔭 I’m currently working on **Polishing my pentesting skills**
 
