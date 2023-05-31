@@ -9,20 +9,16 @@
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://yalantis.com/uploads/ckeditor/pictures/2916/dribble_perfect.gif">
-<br>
-
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
-
 <br><br>
 
 - 🔭 I am currently working on `Something Interesting`.
-- 🌱 I’m currently learning `MERN Stack`.
+- 🌱 I’m currently learning `JavaScript`.
 - 👯 I’m looking to collaborate for `Dev Projects`.
-- 🤔 I’m looking for help with `Competitive Programming`
+- 🤔 I’m looking for help with `Competitive Programming`.
 - 💬 Ask me about anything, Except Maths :neutral_face:
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a`job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1hxSkWnbE2JsNC8aVeDTHa7DKyrIS9DBV/view?usp=share_link).
+- :briefcase: I’m currently open for a`job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1hxSkWnbE2JsNC8aVeDTHa7DKyrIS9DBV/view?usp=share_link).
 - ⚡ Fun fact: I am `Batman`.
 <br>
 
