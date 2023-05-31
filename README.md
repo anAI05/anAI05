@@ -1,6 +1,6 @@
 <h2><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello World <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h2>
 
-<h1 align="center">Hey there, I'm ANAi</h1>
+<h1 align="center">I'm ANAi</h1>
 
 <p align="center">
 	<a href="https://github.com/AnAi05">
@@ -22,8 +22,7 @@
 - 💬 Ask me about anything, Except Maths :neutral_face:
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: I’m currently open for a`job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - ⚡ Fun fact: I am `Batman`.
 <br>
 
