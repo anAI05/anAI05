@@ -22,7 +22,7 @@
 - 💬 Ask me about anything, Except Maths :neutral_face:
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a`job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: I’m currently open for a`job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1hxSkWnbE2JsNC8aVeDTHa7DKyrIS9DBV/view?usp=share_link).
 - ⚡ Fun fact: I am `Batman`.
 <br>
 
