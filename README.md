@@ -9,17 +9,20 @@
 <h2><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello World <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h2>
 <br>
 
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
 - 🔭 I’m currently working on **Polishing my pentesting skills**
 
 - 🌱 I’m currently wanting to learn **Python**
 
-- 👯 I’m looking to collaborate on **Cloud related projects**
+- 👯 I’m looking to collaborate on **Dev projects**
 
 - 💬 Ask me about **C++**
 
 - 📫 How to reach me **omkarjajulwar@gmail.com**
 
 - ⚡ Fun fact **I'm batman**
+
 
 ![age](https://img.shields.io/badge/age-22-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
