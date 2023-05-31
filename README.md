@@ -15,14 +15,16 @@
 
 <br><br>
 
-- :school: I am a `Junior`
-- :trophy: 2x `ACPC` Finalist.
+- 🔭 I am currently working on `Something Interesting`.
+- 🌱 I’m currently learning `MERN Stack`.
+- 👯 I’m looking to collaborate for `Dev Projects`.
+- 🤔 I’m looking for help with `Competitive Programming`
+- 💬 Ask me about anything, Except Maths :neutral_face:
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- ⚡ Fun fact: I am `Batman`.
 <br>
 
 <h3 align="left">Connect with me:</h3>
