@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://yalantis.com/uploads/ckeditor/pictures/2916/dribble_perfect.gif">
 <br><br>
 
-- :lab: I am currently working on `Something Interesting`.
+- :atom: I am currently working on `Something Interesting`.
 - :student: I’m currently practicing `JAVA`.
 - :collision: I’m looking to collaborate for `Dev Projects`.
 - :thinking: I’m looking for help with `Competitive Programming`.
