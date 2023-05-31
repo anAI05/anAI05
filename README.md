@@ -1,32 +1,29 @@
-<h1 align="center">Hey there, I'm ANAi</h1>
-<h3 align="center">ML Enthusiast</h3>
+<h2><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello World <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h2>
 
+<h1 align="center">Hey there, I'm ANAi</h1>
+
+<p align="center">
+	<a href="https://github.com/AnAi05">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://yalantis.com/uploads/ckeditor/pictures/2916/dribble_perfect.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=disha-25&label=Profile%20views&color=0e75b6&style=flat" alt="disha-25" /> </p>
-<!--- <p>Visitor Count</p> <img src="https://profile-counter.glitch.me/Disha-25/count.svg">              -->
-
-<h2><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello World <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h2>
 <br>
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🔭 I’m currently working on **Polishing my pentesting skills**
+<br><br>
 
-- 🌱 I’m currently wanting to learn **Python**
-
-- 👯 I’m looking to collaborate on **Dev projects**
-
-- 💬 Ask me about **C++**
-
-- 📫 How to reach me **omkarjajulwar@gmail.com**
-
-- ⚡ Fun fact **I'm batman**
-
-
-![age](https://img.shields.io/badge/age-22-blue)
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-INDIA-3c9)
+- :school: I am a `Junior`
+- :trophy: 2x `ACPC` Finalist.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
