@@ -4,17 +4,17 @@
 
 <p align="center">
 	<a href="https://github.com/AnAi05">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiast;&center=true&width=380&height=45">
 	</a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://yalantis.com/uploads/ckeditor/pictures/2916/dribble_perfect.gif">
 <br><br>
 
-- 🔭 I am currently working on `Something Interesting`.
-- 🌱 I’m currently learning `JavaScript`.
-- 👯 I’m looking to collaborate for `Dev Projects`.
-- 🤔 I’m looking for help with `Competitive Programming`.
+- :lab: I am currently working on `Something Interesting`.
+- :student: I’m currently practicing `JAVA`.
+- :collision: I’m looking to collaborate for `Dev Projects`.
+- :thinking: I’m looking for help with `Competitive Programming`.
 - 💬 Ask me about anything, Except Maths :neutral_face:
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
