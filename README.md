@@ -15,7 +15,7 @@
 - :student: I’m currently practicing `JAVA`.
 - :collision: I’m looking to collaborate for `Dev Projects`.
 - :thinking: I’m looking for help with `Competitive Programming`.
-- 💬 Ask me about anything, Except Maths :neutral_face:
+- 💬 Ask me about anything, `Except Maths` :neutral_face:
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 - :briefcase: I’m currently open for a`job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1hxSkWnbE2JsNC8aVeDTHa7DKyrIS9DBV/view?usp=share_link).
