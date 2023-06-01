@@ -9,17 +9,17 @@
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://yalantis.com/uploads/ckeditor/pictures/2916/dribble_perfect.gif">
-<br><br>
+<br><br><br>
 
-- :atom: I am currently working on `Something Interesting`.
-- :student: I’m currently practicing `JAVA`.
-- :collision: I’m looking to collaborate for `Dev Projects`.
-- :thinking: I’m looking for help with `Competitive Programming`.
+- :atom: I am currently working on `Something Interesting`
+- :student: I’m currently practicing `JAVA`
+- :collision: I’m looking to collaborate for `Dev Projects`
+- :thinking: I’m looking for help with `Competitive Programming`
 - 💬 Ask me about anything, `Except Maths` :neutral_face:
-- :technologist: I love using Software as a solution for every `Problem`.
-- :nerd_face: Always `learning new things`.
-- :briefcase: I’m currently open for a`job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1hxSkWnbE2JsNC8aVeDTHa7DKyrIS9DBV/view?usp=share_link).
-- ⚡ Fun fact: I am `Batman`.
+- :technologist: I love using Software as a solution for every `Problem`
+- :nerd_face: Always `learning new things`
+- :briefcase: I’m currently open for a`job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1hxSkWnbE2JsNC8aVeDTHa7DKyrIS9DBV/view?usp=share_link)
+- ⚡ Fun fact: I am `Batman`
 <br>
 
 <h3 align="left">Connect with me:</h3>
