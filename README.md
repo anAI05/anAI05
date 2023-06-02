@@ -11,16 +11,21 @@
 <img align="right" alt="Coding" width="400" src="https://yalantis.com/uploads/ckeditor/pictures/2916/dribble_perfect.gif">
 <br><br><br>
 
-- :atom: I am currently working on `Something Interesting`
-- :student: I’m currently practicing `JAVA`
-- :collision: I’m looking to collaborate for `Dev Projects`
-- :thinking: I’m looking for help with `Competitive Programming`
-- 💬 Ask me about anything, `Except Maths` :neutral_face:
-- :technologist: I love using Software as a solution for every `Problem`
-- :nerd_face: Always `learning new things`
-- :briefcase: I’m currently open for a`job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1hxSkWnbE2JsNC8aVeDTHa7DKyrIS9DBV/view?usp=share_link)
-- ⚡ Fun fact: I am `Batman`
+### Talking about Personal Stuffs:
+- :atom: I am currently working on `Something Interesting`.
+- :student: I’m currently practicing `JAVA, React, Javascript, etc.`
+- :collision: I’m looking to collaborate for `Dev Projects`.
+- :thinking: I’m looking for help with `Competitive Programming`.
+- :speech_balloon: Ask me about anything, `Except Maths` :neutral_face:.
+- :nerd_face: Always `learning new things`.
+- :briefcase: I’m currently open for a`job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1hxSkWnbE2JsNC8aVeDTHa7DKyrIS9DBV/view?usp=share_link).
+- :alien: Fun fact: I am `Batman`.
 <br>
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 📰 &nbsp; Reading & writing tech and vedanata blogs whenever possible.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,8 +56,25 @@
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnAi05&theme=radical" />
 </details>
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> macOS Ventura 13.4</li>
+	    <li><b>Laptop: </b> MacBook M1 Air</li>
+  	    <li><b>Browser: </b> Opera GX</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+	    <br />
+		</ul>	
+</details>
 
-<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 ![snake gif](https://github.com/AnAi05/AnAi05/blob/output/github-contribution-grid-snake.svg)
 
