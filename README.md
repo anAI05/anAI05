@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="https://github.com/AnAi05">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Developer;Open+Source+Contributor;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiast;&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Open+Source+Fellow;Freelancer;DSA%20|%20AI%20|%20ML%20Enthusiast;&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -13,7 +13,7 @@
 
 ### Talking about Personal Stuffs:
 - :atom: I am currently working on `Something Interesting`.
-- :student: I’m currently practicing `JAVA, React, Javascript, etc.`
+- :student: I’m currently practicing `C++, Python, Javascript, React, etc.`
 - :collision: I’m looking to collaborate for `Dev Projects`.
 - :thinking: I’m looking for help with `Competitive Programming`.
 - :speech_balloon: Ask me about anything, `Except Maths` :neutral_face:.
