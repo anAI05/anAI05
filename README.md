@@ -18,7 +18,7 @@
 - :thinking: I’m looking for help with `Competitive Programming`.
 - :speech_balloon: Ask me about anything, `Except Maths` :neutral_face:.
 - :nerd_face: Always `learning new things`.
-- :briefcase: I’m currently open for a`job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1hxSkWnbE2JsNC8aVeDTHa7DKyrIS9DBV/view?usp=share_link).
+- :briefcase: I’m currently open for a`job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1XdgC0eIUq0VR0Uftg88HLEYCcgV0cZ7L/view?usp=share_link).
 - :alien: Fun fact: I am `Batman`.
 <br>
 
