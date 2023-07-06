@@ -77,6 +77,3 @@
 
 </div>
 
-![snake gif](https://github.com/AnAi05/AnAi05/blob/output/github-contribution-grid-snake.svg)
-
-
