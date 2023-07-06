@@ -12,11 +12,11 @@
 <br><br><br>
 
 ### Talking about Personal Stuffs:
-- :atom: I am currently working on `Something Interesting`.
-- :student: I’m currently practicing `C++, Python, Javascript, React, etc.`
-- :collision: I’m looking to collaborate for `Dev Projects`.
-- :thinking: I’m looking for help with `Competitive Programming`.
-- :speech_balloon: Ask me about anything, `Except Maths` :neutral_face:.
+- :atom: I am currently working on `Something interesting`.
+- :student: I’m currently practicing `C++, Python, Javascript, etc.`
+- :collision: I’m looking to collaborate for `Dev projects`.
+- :thinking: I’m looking for help with `Competitive programming`.
+- :speech_balloon: Ask me about anything, `Except maths` :neutral_face:.
 - :nerd_face: Always `learning new things`.
 - :briefcase: I’m currently open for a`job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1XdgC0eIUq0VR0Uftg88HLEYCcgV0cZ7L/view?usp=share_link).
 - :alien: Fun fact: I am `Batman`.
@@ -25,15 +25,16 @@
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech and vedanata blogs whenever possible.
+- 📰 &nbsp; Reading, writing tech and vedanata blogs whenever possible.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anai_0v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anai_0v" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anai-5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anai-5" height="30" width="40" /></a>
-<a href="https://fb.com/om.jajulwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="om.jajulwar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aintomkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_batman_v" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/<omkarjajulwar>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<omkarjajulwar>/profile" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anai05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anai05" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anai-5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anai-5" height="30" width="40" /></a>
+<a href="https://twitter.com/anai_0v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anai_0v" height="30" width="40" /></a>
+<a href="https://fb.com/om.jajulwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="om.jajulwar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aintomkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aintomkar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
