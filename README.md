@@ -15,7 +15,6 @@
 - :atom: I am currently working on `Something interesting`.
 - :student: I’m currently practicing `C++, Python, Javascript, etc.`
 - :collision: I’m looking to collaborate for `Dev projects`.
-- :thinking: I’m looking for help with `Competitive programming`.
 - :speech_balloon: Ask me about anything, `Except maths` :neutral_face:.
 - :nerd_face: Always `learning new things`.
 - :briefcase: I’m currently open for a`job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1ReeyJaYieXFQXntTmnrhcYGxWyOpR8Yd/view?usp=share_link).
