@@ -1,6 +1,6 @@
 <h2><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello World <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h2>
 
-<h1 align="center">I'm ANAi</h1>
+<h1 align="center">नमस्ते (Namaste)🙏🏻, I'm ANAi</h1>
 
 <p align="center">
 	<a href="https://github.com/AnAi05">
