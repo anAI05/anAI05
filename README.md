@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="https://github.com/AnAi05">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Open+Source+Fellow;Freelancer;%20DSA%20|%20Data%20Science|%20AI%20Enthusiast;&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Open+Source+Fellow;Freelancer;%20Data%20Science|%20AI%20Enthusiast;&center=true&width=380&height=45">
 	</a>
 </p>
 
