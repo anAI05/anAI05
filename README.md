@@ -13,7 +13,7 @@
 
 ### Talking about Personal Stuffs:
 - :atom: I am currently working on `Something interesting`.
-- :student: I’m currently learning `MERN` and practicing `DSA`.
+- :student: I’m currently learning `Data Science` and practicing `DSA`.
 - :collision: I’m looking to collaborate for `Dev projects`.
 - :speech_balloon: Ask me about anything, `Except maths` :neutral_face:.
 - :nerd_face: Always `learning new things`.
