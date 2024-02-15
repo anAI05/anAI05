@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="https://github.com/AnAi05">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Open+Source+Fellow;Freelancer;%20Data%20Science|%20AI%20Enthusiast;&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Open+Source+Fellow;Freelancer;%20Data%20Science|%20AI%20Enthusiast;&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -13,7 +13,7 @@
 
 ### Talking about Personal Stuffs:
 - :student: I’m currently learningand practicing `Data Science`.
-- :collision: I’m looking to collaborate for `Dev projects`.
+- :collision: I’m looking to collaborate for `Data projects`.
 - :speech_balloon: Ask me about anything, `Except maths` :neutral_face:.
 - :nerd_face: Always `learning new things`.
 - :briefcase: I’m currently open for a`job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1ReeyJaYieXFQXntTmnrhcYGxWyOpR8Yd/view?usp=sharing).
