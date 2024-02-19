@@ -12,7 +12,7 @@
 <br><br><br>
 
 ### Talking about Personal Stuffs:
-- :student: I’m currently learningand practicing `Data Science`.
+- :student: I’m currently learningand practicing `Data Science and Analytics`.
 - :collision: I’m looking to collaborate for `Data projects`.
 - :speech_balloon: Ask me about anything, `Except maths` :neutral_face:.
 - :nerd_face: Always `learning new things`.
