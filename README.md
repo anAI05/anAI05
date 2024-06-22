@@ -16,7 +16,7 @@
 - :collision: I’m looking to collaborate for `Data projects`.
 - :speech_balloon: Ask me about anything, `Except maths` :neutral_face:.
 - :nerd_face: Always `learning new things`.
-- :briefcase: I’m currently open for a`job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/12a9t1l3xEBPdDTXqHcxS5jrc4jtB6SNT/viewusp=share_link).
+- :briefcase: I’m currently open for a`job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/12a9t1l3xEBPdDTXqHcxS5jrc4jtB6SNT/view?usp=sharing).
 - :alien: Fun fact: I am `Batman`.
 <br>
 
