@@ -59,7 +59,7 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> macOS Ventura 14.2.1</li>
+  	    <li><b>OS:</b> macOS Ventura 14.5</li>
 	    <li><b>Laptop: </b> MacBook M1 Air</li>
   	    <li><b>Browser: </b> Opera GX</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
