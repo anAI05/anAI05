@@ -28,7 +28,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://auth.geeksforgeeks.org/user/<anai05>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<anai05>/profile" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anai05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anai05" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anai-5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anai-5" height="30" width="40" /></a>
 <a href="https://x.com/fakira_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anai_0v" height="30" width="40" /></a>
 <a href="https://fb.com/om.jajulwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="om.jajulwar" height="30" width="40" /></a>
